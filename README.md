@@ -51,7 +51,3 @@ Errors
 Authors
 -------
 - Ketan Ingale
-- Nishant Dalvi
-- Jayan Vinod
-- Ninad Kheratkar
-- Rakshitha Shettigar
