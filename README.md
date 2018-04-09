@@ -3,8 +3,6 @@ WlockOne
 In this repository you find the software, firmware and hardware design for the
 "WlockOne", an open-source remake of the QLOCKTWO by BIEGERT & FUNK.
 
-It is built by five I2IT under-grads computer science students.
-
 Software
 --------
 The QlockToo Software Suite is written in PySide.
