@@ -7,7 +7,7 @@ Software
 --------
 The QlockToo Software Suite is written in PySide.
 
-<img src="faceplate/face_21jul_reference_image.png" alt="faceplate">
+<img src="faceplate/Wlock.JPG" alt="faceplate">
 
 Firmware
 --------
