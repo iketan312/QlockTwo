@@ -45,7 +45,3 @@ Errors
 
     !001 Unknown Command
     !002 Incorrect parameters
-
-Authors
--------
-- Ketan Ingale
